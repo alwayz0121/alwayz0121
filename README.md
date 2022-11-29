@@ -1,15 +1,27 @@
-<h1 align="center">Hi, I'm Gyeong a Kim (Kelly)</h1>
-<h2 align="center">🍊 Vitamin Frontend developer 🍊</h2>
+<h2 align="center">Hi, I'm Gyeong a Kim (Kelly)</h2>
+<h4 align="center">🍊 I am a Vitamin Frontend developer and I love learning new stuff 🍊</h4>
+
 <br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/alwayz0121](https://github.com/alwayz0121)
+<p align="middle">
+ 📫 How to reach me : alwayz0121@gmail.com <br>
+ freeCodeCamp : https://www.freecodecamp.org/alwayz0121
+</p>
 
-- 📫 How to reach me **alwayz0121@gmail.com**
+<br>
+
+<h3 align="middle">개발을 시작하기 전 접해본 분야</h3>
+<p align="middle">
+ 🌏 study atmospheric science <br>
+ 🎹 play the piano <br>
+ 👩🏻‍🏫 teach Math <br>
+ 🙋🏻‍♀️ lead a large group
+</p>
 
 <br>
 
 <h3 align="middle">Hobbies</h3>
-<p align="middle">✍🏻writing 🎹piano 📘reading books 🏃🏻‍♀️exercising 🚗traveling</p>
+<p align="middle">✍🏻writing 📘reading books 🏃🏻‍♀️exercising 🚗traveling</p>
 
 <br/>
 
@@ -34,6 +46,7 @@
  </p>
 
 <br />
+
 
 <p align="middle">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwayz0121&show_icons=true&locale=en&layout=compact" alt="alwayz0121" />
