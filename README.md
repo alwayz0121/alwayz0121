@@ -1,31 +1,3 @@
-<h3 align="center">Hi, I'm Gyeong a Kim (Kelly)</h3>
-<h4 align="center">🍊 A passionate, Vitamin Frontend developer and I love learning new stuff 🍊</h4>
-
-<br>
-
-<h3 align="left">Connect with me: blog</h3>
-<p align="left">
-<a href="/https://vitamin-fe.tistory.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://vitamin-fe.tistory.com/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">📫 How to reach me:</h3>
-<p align="left">
-alwayz0121@gmail.com <br>
-https://www.freecodecamp.org/alwayz0121
-</p>
-
-<br>
-
-<h3 align="left">개발을 시작하기 전</h3>
-<p align="left">
- 🌏 study atmospheric science <br>
- 🎹 play the piano <br>
- 👩🏻‍🏫 teach Math <br>
- 🙋🏻‍♀️ lead a large group
-</p>
-
-<br>
-
 <h3 align="left">Hobbies</h3>
 <p align="left">✍🏻writing 📘reading books 🏃🏻‍♀️exercising 🚗traveling</p>
 
@@ -57,11 +29,4 @@ https://www.freecodecamp.org/alwayz0121
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
-
-<br />
-
-
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alwayz0121&show_icons=true&locale=en&layout=compact" alt="alwayz0121" />
 </p>
